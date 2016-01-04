@@ -1,0 +1,21 @@
+#side-menu {
+	background-color: #f0f0f0;
+	min-height:500px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+	text-decoration: none;
+	background-color: #dddddd;
+}
+.search-result {
+	margin-top: 20px;
+}
+.search-result ul {
+	padding: 0;
+}
+.search-result li {
+	text-decoration: underline;
+	color: #0645AD;
+	cursor: pointer;
+	margin-bottom: 10px;
+	list-style: none;
+}
